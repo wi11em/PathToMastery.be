@@ -1,2 +1,2 @@
-# We-IT
- We-IT website
+# PathToMastery.be
+ PathToMastery website
