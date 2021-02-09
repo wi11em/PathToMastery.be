@@ -1,2 +1,0 @@
-# PathToMastery.be
- PathToMastery website
